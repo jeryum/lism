@@ -439,10 +439,22 @@
         "cover": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg",
         "release": "July 18, 2008"
     },
+     {
+        "title": "The Notebook",
+        "url": "https://www.imdb.com/title/tt0468569/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQEXAu3FlBEX8j7wXZI5iflwzWWazwEc5wps0qfX8CfhCOaBqvPpgC-ESJ&s=10",
+        "release": "July 18, 2008"
+    },
+     {
+        "title": "A beautiful mind",
+        "url": "https://www.imdb.com/title/tt0468569/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8WSsKq8fkIOoEOL84mDDLRG4kg-cENT_ung_H4dhyKV5bPsQHRS6ayZ_F&s=10",
+        "release": "July 18, 2008"
+    },
     {
-        "title": "Titanic",
+        "title": "1984",
         "url": "https://www.imdb.com/title/tt0120338/",
-        "cover": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6RHQAcNbg1ZWkJp6fGd5BkQpJskIlcwjVTebLlxmp3QVkYu5iARJd4k&s=10",
         "release": "December 19, 1997"
     }
 ],
