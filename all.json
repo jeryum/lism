@@ -367,6 +367,12 @@
         "cover": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
         "release": "December 5, 1997"
     },
+      {
+        "title": "The shawshank redemption",
+        "url": "https://www.imdb.com/title/tt0119217/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtePT8AYFSTJn1-afSQyceFFETK6DMMShLofW68rv69Q&s=10",
+        "release": "December 5, 1987"
+    },
      {
         "title": "3 idiots",
         "url": "https://www.imdb.com/title/tt0119217/",
