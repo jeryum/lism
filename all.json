@@ -475,6 +475,12 @@
         "cover": "https://m.media-amazon.com/images/M/MV5BZTM2ZGJmNjQtN2UyOS00NjcxLWFjMDktMDE2NzMyNTZlZTBiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg",
         "release": "April 14, 2000"
     },
+       {
+        "title": "V for vendetta",
+        "url": "https://www.imdb.com/title/tt0119217/",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTMzMjYwODM5NF5BMl5BanBnXkFtZTcwNjk0MTYyNw@@._V1_.jpg",
+        "release": "December 5, 1987"
+    },
     {
         "title": "Whiplash",
         "url": "https://www.imdb.com/title/tt2582802/",
