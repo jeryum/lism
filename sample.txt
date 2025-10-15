@@ -1,0 +1,156 @@
+{
+"anime": [
+    {
+        "title": "Attack on Titan",
+        "url": "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt-cY5lPiOlp5WtxsCkfwbUzgqYNhAoO-Y15qA6iUKO0-JZC2HDXO8IOK9&s=10",
+        "release": "April 7, 2013"
+    },
+    {
+        "title": "Your Lie in April",
+        "url": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso",
+        "cover": "https://cdn.myanimelist.net/images/anime/3/67177.jpg",
+        "release": "October 10, 2014"
+    }
+],
+
+
+
+
+ "movie": [
+    {
+        "title": "Good Will Hunting",
+        "url": "https://www.imdb.com/title/tt0119217/",
+        "cover": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+        "release": "December 5, 1997"
+    },
+     
+    {
+        "title": "1984",
+        "url": "https://www.imdb.com/title/tt0120338/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-6RHQAcNbg1ZWkJp6fGd5BkQpJskIlcwjVTebLlxmp3QVkYu5iARJd4k&s=10",
+        "release": "December 19, 1997"
+    }
+],
+ 
+  
+  
+
+  "game": [
+    {
+        "title": "Asura's Wrath (PS3)",
+        "url": "https://m.imdb.com/title/tt12345678/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjxscnyqVB-Ld11SbKc4wi734URfQkChMTCbJllwGLQmM6lU6fGahGyfbw&s=10",
+        "release": "February 21, 2012"
+    },
+  
+    {
+        "title": "Clash of Clans",
+        "url": "https://m.imdb.com/title/tt23456789/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOLebkSRHht-tbkCZs4W7K9kjh_a3t_lIl_cJu75YIBTdx5vtXd479iho&s=10",
+        "release": "August 2, 2012"
+    }
+],
+
+
+
+
+"manhwa": [
+        {
+        "title": "Mercenary Enrollment",
+        "url": "https://www.webtoons.com/en/action/teenage-mercenary/list?title_no=3181",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSomu0qO3R-UJo9IHjNjCpr2eC15TT_Dv-TYlpujEDK9ce0tWmbdui6fkc&s=10",
+        "release": "2021"
+    },
+
+    {
+        "title": "Blood Blade",
+        "url": "https://www.webtoons.com/en/action/blood-blade/list?title_no=2819",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU-gfrwSJASU6u2mrwtAHeCcmjD8i1ynWugXozA_V1S-jeb3a05QGHWGug&s=10",
+        "release": "2020"
+    }
+  ],
+
+
+
+
+  "music": [
+    {
+        "title": "Let Down",
+        "artist": "Radiohead",
+        "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr",
+        "cover": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "release": "1997"
+    },
+ 
+    {
+        "title": "Leaving Tonight",
+        "artist": "The Neighbourhood",
+        "url": "https://open.spotify.com/track/4kABWt5Y4PmXoUYo1dud4c",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EyXMZhXCu9D0N4i9yDIEpbwx5-AKx7uO1hpdAMhaJZxJrdSFlek-j-w&s=10",
+        "release": "2013"
+    }
+],
+  
+ "animem": [
+    {
+        "title": "Paprika",
+        "artist": "Satoshi Kon",
+        "url": "https://myanimelist.net/anime/1943/Paprika",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZmG8g2z2M_nOrojXJsohwUfJ3HBq1iSTKsPub6Mje4VZ1BzuznyOwV0&s=10",
+        "release": "2006"
+    },
+ 
+    {
+        "title": "On Your Mark",
+        "artist": "Hayao Miyazaki",
+        "url": "https://myanimelist.net/anime/1314/On_Your_Mark",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaZlpyHrUK6zZCuuUWBy8xGVFp6DTuZGsr9ycLvKE4DBy95zydRR7fVwU&s=10",
+        "release": "1995"
+    }
+],
+ 
+  
+  
+"manga": [
+      {"title": "Moriarty the Patriot", "url": "https://myanimelist.net/manga/97914/Yuukoku_no_Moriarty", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJ_Y6XARBIC1SPXJdpedfXM8jnLmsuGcHm7ejCUzwWrI7dLb6OUYcCpwt&s=10", "release": "2016"},
+       
+        {"title": "The Boy Who Collected the Stars", "url": "https://myanimelist.net/manga/1013/Hoshi_o_Hirotta_Otoko", "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamAzhI7DASY-Ff1tTAtlzqclTmhfWSMRqTnK1u3dA3dCCy5RDzZOgT1RL&s=10", "release": "2009"}
+],
+
+
+  "channel": [
+    {
+        "title": "The Outdoor Boys",
+        "url": "https://www.youtube.com/@OutdoorBoys",
+        "cover": "https://yt3.googleusercontent.com/ytc/AIdro_kMwdFZd-Nl1trq6PgKkkqH58o9Lj0phbNoTaFTtNeoNg4=s900-c-k-c0x00ffffff-no-rj",
+        "release": "June 15, 2015"
+    },
+   
+    {
+        "title": "Disrupt",
+        "url": "https://www.youtube.com/@DisruptReality",
+        "cover": "https://yt3.googleusercontent.com/ytc/AIdro_mqv-i4_VYU8FsyeuCi8hvt0Nb3Ehw6pOJ1FwkMLwTGbt0=s500-c-k-c0x00ffffff-no-rj",
+        "release": "April 3, 2012"
+    }
+],
+
+
+"books": [
+    {
+        "title": "1984",
+        "url": "https://www.goodreads.com/book/show/40961427-1984",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4zd7HvI5JaFFnwWrzNzSnzM7xG8pcVCCFROFFUvi-yglXBlkkWs33Ww&s=10",
+        "release": "June 8, 1949"
+    },
+  
+    {
+        "title": "The Death of Ivan Ilych",
+        "url": "https://www.goodreads.com/book/show/212346.The_Death_of_Ivan_Ilych",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVzr_5OQQWGxlThI2ZqT644yhUy6bPC2YZKmEBGdwuJLJyoNLGwgkWMDs&s=10",
+        "release": "1886"
+    }
+]
+  
+  
+}
