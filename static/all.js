@@ -35,14 +35,14 @@ document.addEventListener("DOMContentLoaded", function() {
     // Map pages to their JSON files
     const pageToJsonMap = {
         'anime': '../data/anime.json',
-        'movie.html': '../data/movie.json',
-        'music.html': '../data/music.json',
-        'game.html': '../data/game.json',
-        'channel.html': '../data/channel.json',
-        'books.html': '../data/books.json',
-        'manga.html': '../data/manga.json',
-        'manhwa.html': '../data/manhwa.json',
-        'animem.html': '../data/animem.json'
+        'movie': '../data/movie.json',
+        'music': '../data/music.json',
+        'game': '../data/game.json',
+        'channel': '../data/channel.json',
+        'books': '../data/books.json',
+        'manga': '../data/manga.json',
+        'manhwa': '../data/manhwa.json',
+        'animem': '../data/animem.json'
     };
 
     const jsonFile = pageToJsonMap[currentPage];
