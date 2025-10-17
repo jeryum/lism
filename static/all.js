@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function() {
     
     // Map pages to their JSON files
     const pageToJsonMap = {
-        'anime.html': '../data/anime.json',
+        'anime': '../data/anime.json',
         'movie.html': '../data/movie.json',
         'music.html': '../data/music.json',
         'game.html': '../data/game.json',
