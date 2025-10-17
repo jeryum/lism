@@ -1,6 +1,14 @@
 {
   "rewrites": [
     { "source": "/", "destination": "/index.html" },
-    { "source": "/:page", "destination": "/pages/:page.html" }
+    { "source": "/anime", "destination": "/pages/anime.html" },
+    { "source": "/animem", "destination": "/pages/animem.html" },
+    { "source": "/books", "destination": "/pages/books.html" },
+    { "source": "/channel", "destination": "/pages/channel.html" },
+    { "source": "/game", "destination": "/pages/game.html" },
+    { "source": "/manga", "destination": "/pages/manga.html" },
+    { "source": "/manhwa", "destination": "/pages/manhwa.html" },
+    { "source": "/movie", "destination": "/pages/movie.html" },
+    { "source": "/music", "destination": "/pages/music.html" }
   ]
 }
