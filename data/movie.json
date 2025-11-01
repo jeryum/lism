@@ -12,6 +12,12 @@
         "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtePT8AYFSTJn1-afSQyceFFETK6DMMShLofW68rv69Q&s=10",
         "release": "1994"
     },
+        {
+        "title": "se7en",
+        "url": "https://www.imdb.com/title/tt3783958/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQxROmPljk2oIp5ta5z5C_ZDdxibuxKn2ix0RyTFAilrDh5TapiYQx-ZU&s=10",
+        "release": ""
+    },
     {
         "title": "3 Idiots",
         "url": "https://www.imdb.com/title/tt1187043/",
@@ -53,6 +59,24 @@
         "url": "https://www.imdb.com/title/tt0297721/",
         "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXZrjt7i9AbyvfdnAcFY0-Pa40boVR3UzYsLgT-UgAFO7ozMbWkoWXXjB&s=10",
         "release": "2001"
+    },
+     {
+        "title": "after life",
+        "url": "https://www.imdb.com/title/tt3783958/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxr8vXILAfvAaJt_SrsRkb9Q-hzFhAG24g7vLKH0YxO6c2oalYcp_Ydlf&s=10",
+        "release": ""
+    },
+        {
+        "title": "city of god",
+        "url": "https://www.imdb.com/title/tt3783958/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5rYHzlt-fDlsZfBE44VQ8CbtOq_yseRROcnlnN2WyxXDNGbvJ21eQ9fUd&s=10",
+        "release": ""
+    },
+        {
+        "title": "Mysterious skin",
+        "url": "https://www.imdb.com/title/tt3783958/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcED0o5qAsRbCbKhXwXQnw9ON_GctgUAm4dwR3Co0DoF3cYg6xK3SIcbP2&s=10",
+        "release": ""
     },
     {
         "title": "The Perks of Being a Wallflower",
@@ -208,6 +232,12 @@
         "title": "the sixth sense",
         "url": "https://www.imdb.com/title/tt1022603/",
         "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYBPI9NJ6RTRJVYCMo118KI_uWJT2XTjTQ3hEfm006MCtUAsfjmp9r6i0&s=10",
+        "release": ""
+    },
+        {
+        "title": "my girl",
+        "url": "https://www.imdb.com/title/tt3783958/",
+        "cover": "https://entertainment.time.com/wp-content/uploads/sites/3/2011/07/08_top10saddestkidsmovies.jpg?w=720&h=480&crop=1",
         "release": ""
     },
       {
