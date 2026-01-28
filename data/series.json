@@ -5,5 +5,23 @@
         "url": "",
         "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GHpumxUJ7DDMmgHEE4KhXDY5OXOc9I-gA9zzzKcptA&s=10",
         "release": "2024"
+    },
+    {
+        "title": "YOU",
+        "url": "",
+        "cover": "https://m.media-amazon.com/images/M/MV5BMTVlYmRhMWQtNmE0Yi00ODM1LWEzMWEtNTQzZGZhODRmZTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "release": "2018"
+    },
+    {
+        "title": "Dexter",
+        "url": "",
+        "cover": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7892396_b_v8_ab.jpg",
+        "release": "2006"
+    },
+    {
+        "title": "Mr. Robot",
+        "url": "",
+        "cover": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/240ff628393099.5a7efd86e4bd6.jpg",
+        "release": "2015"
     }
 ]
