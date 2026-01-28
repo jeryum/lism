@@ -149,7 +149,7 @@ body {
      align-items: center;
     height: 3.5rem;
     padding: 0.5rem;
-    
+    font-style: none;
     color: var(--text-2);
     white-space: nowrap;
     background: var(--3);
