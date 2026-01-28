@@ -51,7 +51,8 @@ document.addEventListener("DOMContentLoaded", function() {
         'books': '../data/books.json',
         'manga': '../data/manga.json',
         'manhwa': '../data/manhwa.json',
-        'animem': '../data/animem.json'
+        'animem': '../data/animem.json',
+        'series': '../data/series.json'
     };
 
     const jsonFile = pageToJsonMap[currentPage];
@@ -147,6 +148,7 @@ function getSectionInfo(jsonFile) {
         '../data/books.json': { sectionId: 'books', className: 'books' },
         '../data/manga.json': { sectionId: 'manga', className: 'manga' },
         '../data/manhwa.json': { sectionId: 'manhwa', className: 'manhwa' },
+        '../data/series.json': { sectionId: 'series', className: 'series' },
         '../data/animem.json': { sectionId: 'animem', className: 'animem' }
     };
     
