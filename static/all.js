@@ -1,3 +1,12 @@
+(function () {
+    const profileImage = "../images/pfp.jpg"; 
+
+    document.querySelectorAll(".pfp").forEach(img => {
+      img.src = profileImage;
+    });
+  })();
+
+
 const body = document.querySelector('body');
 const info = document.querySelector('.info-background');
 const option = document.querySelector('.option');
