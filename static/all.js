@@ -12,7 +12,7 @@ const info = document.querySelector('.info-background');
 const option = document.querySelector('.option');
 
 function copyLink() {
-    navigator.clipboard.writeText('jeryum.github.io');
+    navigator.clipboard.writeText('lism.vercel.app');
     hide(option);
 }
 
