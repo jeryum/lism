@@ -310,7 +310,13 @@
         "title": "stronger",
         "url": "https://www.imdb.com/title/tt0087803/",
         "cover": "https://m.media-amazon.com/images/S/pv-target-images/7b3b435a00dd252c5fbd1e3caa4e4df9aa82f5f64477b4da5f0bb64a132554ed.jpg",
-        "release": "1984"
+        "release": "2017"
+    },
+     {
+        "title": "The king of comedy",
+        "url": "https://www.imdb.com/title/tt0087803/",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JeuYt7wIGj63ejPZEXmohZa09-kjDtT5MbfcR_Grsg&s=10",
+        "release": "2017"
     }
     
 ]
