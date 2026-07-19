@@ -1,5 +1,5 @@
 (function () {
-    const profileImage = "../images/pfp.jpg"; 
+    const profileImage = "images/pfp.jpg"; 
 
     document.querySelectorAll(".pfp").forEach(img => {
       img.src = profileImage;
